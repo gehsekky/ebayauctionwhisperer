@@ -1,0 +1,7 @@
+﻿namespace ebayauctionwhisperer
+{
+    class EbayParser
+    {
+
+    }
+}
